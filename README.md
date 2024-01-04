@@ -1,5 +1,5 @@
 ## Seja bem vindo(a) !
-Olá, Me chamo Jailson tenho 20 anos, Sou de Recife-PE, Neste perfil estarei disponibilizando alguns conteúdos interessantes a respeito de desenvolvimento, que foram importantes nessa jornada dev, Também vou disponibilizar alguns projetos realizados.
+Olá, Me chamo Jailson tenho 21 anos, Sou de Recife-PE, Neste perfil estarei disponibilizando alguns conteúdos interessantes a respeito de desenvolvimento, que foram importantes nessa jornada dev, Também vou disponibilizar alguns projetos realizados.
 
 ## Tecnologias que estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" heigth="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"  width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" heigth="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="55" heigth="55"/>
